@@ -150,5 +150,3 @@ Tutorial video that I follow:
 
 ## <a name="resources">🤩 Resources</a>
 Based on "Build and Deploy a Banking App with Finance Management Dashboard Using Next.js 14" video by [**JavaScript Mastery**](https://youtu.be/CzJQEstIiEI).
-
-Image from [**adrianhajdin**](https://github.com/adrianhajdin/react_native-restate/tree/main).
