@@ -92,7 +92,7 @@ and many more, including code architecture and reusability
    ```
 4. Npm install
    ```sh
-   npm install
+   npx sinstall
    ```
 5. Create a new file named .env in the root of your project and add the following content:
 
@@ -149,4 +149,4 @@ Tutorial video that I follow:
 <a href="https://youtu.be/CzJQEstIiEI" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="resources">🤩 Resources</a>
-Based on "Build and Deploy a Banking App with Finance Management Dashboard Using Next.js 14" video by [**JavaScript Mastery**](https://youtu.be/CzJQEstIiEI).
+Based on "Build Your First Mobile Application | React Native Real Estate App" video by [**JavaScript Mastery**](https://youtu.be/CzJQEstIiEI).

@@ -1,5 +1,6 @@
 import { Account, Avatars, Client, OAuthProvider } from 'react-native-appwrite';
 import * as Linking from 'expo-linking';
+import { openAuthSessionAsync } from "expo-web-browser";
 
 export const config = {
     platform: 'com.alieren.restate',
